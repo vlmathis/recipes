@@ -1,8 +1,14 @@
 **pizza**
 ingredients:
 pizza dough
-pizza sauce
+pizza sauce (see sauce recipe)
 mushrooms
 pepperoni
 pineapple
+
+Instructions
+spread dough
+spread sauce
+add cheese
+get crazy with those toppings
 
